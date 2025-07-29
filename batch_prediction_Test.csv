@@ -1,0 +1,11 @@
+﻿age,education,occupation,workclass,gender,hours-per-week
+25,Bachelors,Tech-support,Private,Male,40
+45,Bachelors,Prof-specialty,State-gov,Male,50
+55,Bachelors,Armed-Forces,State-gov,Male,50
+40,PhD,Exec-managerial,Others,Female,50
+28,Assoc,Prof-specialty,State-gov,Female,20
+50,Some-collage,Adm-clerical,Self-emp-inc,Male,60
+33,HS-grad,Handlers-cleaners,Federal-gov,Female,35
+45,Bachelors,Machine-op-inspct,Private,Male,40
+29,Masters,Sales,State-gov,Male,38
+60,PhD,Exec-managerial,Federal-gov,Female,55
